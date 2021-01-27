@@ -1,0 +1,141 @@
+body{
+    color: dark black;
+    margin: 0;
+    text-align: center;
+    font-family:'Merriweather', serif;
+}
+
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0px auto;
+    font-family:  'Sacramento', cursive;
+    color: #87431d;
+    line-height: 2rem;
+}
+
+
+h2{
+font-family: 'Montserrat Alternates', sans-serif;
+font-size: 2rem;
+color: #87431d;
+font-weight: normal;
+padding-bottom: 10px;
+}
+
+
+h3{
+font-family: 'Montserrat Alternates', sans-serif;
+color: #87431d;
+}
+
+
+.top-container{
+
+    background-color:#290001;
+    padding: 150px;
+    position: relative;
+}
+
+
+.middle-container{
+   margin: 100px 0;
+}
+
+
+.bottom-container-color{
+    background-color:#290001;
+    padding:50px 0 20px;
+}
+
+p{
+ line-height: 2;
+}
+
+.cr{
+   color:#FFFFFF;
+   font-family: 'Montserrat Alternates', sans-serif;
+   font-size: 0.75rem;
+   padding: 20px 0;
+}
+
+.contact-msg{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+hr{
+    border: dotted #290001 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;    
+}
+
+
+.bottem-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 400px;
+}    
+
+
+
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 40px;
+}
+
+
+a{
+    color: #87431d;
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    transition: 0.5s ease;
+}
+
+a:hover{
+    color:#FFFFFF;
+}
+
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+
+.cricket-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.computer-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.btn {
+    background-color:#290001 ;
+    transition: 0.2s ease-in-out;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color:87431d;
+    box-shadow: 4px 4px 10px #000;
+}
+ 
+.btn:hover {
+    color: white;
+    
+}
